@@ -6,3 +6,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "IGMU"
+      href: IGMU.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
